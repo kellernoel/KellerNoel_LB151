@@ -41,8 +41,13 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 0    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    |                 |      | Als Administrator möchte ich mich durch Benutzername und Passwort authentifizieren, damit ich auf Administrationsrechte zugreiffen kann.|
+| 2    |                 |      | Als Administrator möchte ich Phrasen und Rätselwörter anlegen, ändern und löschen können, damit ich die Inhalte der App verwalten kann.|
+| 3    |                 |      | Als Administrator möchte ich Kategorien anlegen und jedes Wort bzw. jede Frage einer Kategorie zuordnen können, damit ich die Inhalte der App strukturieren und organisieren kann.|
+| 4    |                 |      | Als Administrator möchte ich einzelne Einträge der Highscore-Liste löschen können, damit ich die Integrität der Highscore-Liste gewährleisten kann.|
+
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
