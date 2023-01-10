@@ -95,6 +95,8 @@
 # 5 Prototyp
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+![grafik](https://user-images.githubusercontent.com/74292626/211563711-a1383ac8-8f9d-45ca-818f-0ea3987f9616.png)
+
 
 # 6 Implementation
 
