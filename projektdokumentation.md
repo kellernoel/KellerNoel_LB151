@@ -20,18 +20,18 @@
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
+* Tier 1 (Presentation): Website/Interface zur anzeige der Rätselwand.
+* Tier 2 (Webserver): Entgegenname von Daten, überprüfen der Daten.
 * Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 4 (Dataserver): Speichern der Einträge des Kandidaten.
 
 # 2 Technologie
 
-✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
+✍️ HTML und CSS mit Bootstrap und JQuery.
 
 # 3 Datenbank
 
-✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
+✍️ MySQL --> MariaDB
 
 # 4.1 User Stories
 
@@ -69,8 +69,21 @@
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |      App gestartet und Loginseite ist erfolgreich geöffnet        |    Benutzername und Passwort eingeben     |         Der Benutzer ist erfolgreich als Administrator eingeloggt.          |
+| 2.1  |      App erfolgreich gestartet und als Administrator eingeloggt      |    Rätselwort oder Phrase eingeben und auf den Knopf "anlegen" drücken     |          Das Rätselwort oder die Phrase wird erstellt.         |
+| 2.2  |      App erfolgreich gestartet und als Administrator eingeloggt      |    Rätselwort oder Phrase auswählen und auf den Knopf "ändern" drücken     |          Es wird das Interface geöffnet, um das Rätselwort oder die Phrase zu ändern.        |
+| 2.3  |      App erfolgreich gestartet und als Administrator eingeloggt      |    Rätselwort oder Phrase auswählen und auf den Knopf "löschen" drücken     |         Das Rätselwort oder die Phrase wird gelöscht.          |
+| 3.1  |       App erfolgreich gestartet und als Administrator eingeloggt       |    Eine kategorie anlegen + eine Frage/ein Wort dieser Kategorie zuordnen     |       Die Kategorie wird erfolgreich erstellt und die richtige Frage/das richtige Wort wird richtig zugeteilt            |
+| 4.1  |      App erfolgreich gestartet und als Administrator eingeloggt + jemand muss bereits schon in der Highscore-Liste vorhanden sein       |    Einen Eintrag aus der Highscore-Liste auswählen und auf den Knopf "löschen" drücken.     |         Der Eintrag wird aus der Highscore-Liste gelöscht.          |
+| 5.1  |       App erfolgreich gestartet und als Kandidat eingeloggt       |    Namen eingeben     |         Name wird auf der Highscore-Liste angezeigt.          |
+| 6.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    keine     |         Kontostand wird auf der Seite angezeigt          |
+| 7.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    keine     |         Lebenspunkte werden auf der Seite angezeigt          |
+| 8.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Eingeben einer Antwort     |         Es wird angezeigt, ob die Antwort richtig oder falsch gewesen ist          |
+| 9.1  |      App erfolgreich gestartet und als Kandidat eingeloggt + Highscore-Liste offen        |    keine     |         Rang wird angezeigt          |
+| 9.2  |      App erfolgreich gestartet und als Kandidat eingeloggt + Highscore-Liste offen        |    keine     |         Name wird angezeigt          |
+| 9.3  |      App erfolgreich gestartet und als Kandidat eingeloggt + Highscore-Liste offen        |    keine     |         Zeitpunkt des Spiels wird angezeigt          |
+| 9.4  |      App erfolgreich gestartet und als Kandidat eingeloggt + Highscore-Liste offen        |    keine     |         Geldbetrag wird angezeigt          |
+| 9.5  |      App erfolgreich gestartet und als Kandidat eingeloggt + Highscore-Liste offen        |    keine     |         Anzahl Spielrunden wird angezeigt          |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
