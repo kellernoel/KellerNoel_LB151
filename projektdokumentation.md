@@ -4,8 +4,8 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | 0.0.2   |                                                              |
+|   09.01.2023   | 0.0.1   | Punkt 4.1 gemacht |
+|   10.01.2023    | 0.0.2   | Punkt 1,2,3,4.2,5 gemacht                                                             |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
 |       | 0.0.5   |                                                              |
