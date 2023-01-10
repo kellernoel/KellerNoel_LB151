@@ -14,7 +14,7 @@
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+✍️ In diesem Projekt geht es darum, die ehemalige Fernsehsendung "Glücksrad" zu implementieren. Das Spiel ist änlich wie ein Kreuzworträtsel, es geht darum, Wörter oder Redewendungen in einem Gitter zu erraten und dabei so viel Geld wie möglich zu ergattern.
 
 # 1 Analyse
 
