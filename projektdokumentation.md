@@ -20,14 +20,14 @@
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): Website/Interface zur anzeige der Rätselwand.
-* Tier 2 (Webserver): Entgegenname von Daten, überprüfen der Daten.
-* Tier 3 (Application Server):
+* Tier 1 (Presentation): Website/Interface zur anzeige der Loginseite/Highscore/Rätselwand.
+* Tier 2 (Webserver): Entgegenname von Daten, überprüfen der Daten mit der Datenbank MySQL.
+* Tier 3 (Application Server): 
 * Tier 4 (Dataserver): Speichern der Einträge des Kandidaten.
 
 # 2 Technologie
 
-✍️ HTML und CSS mit Bootstrap und JQuery.
+✍️ Mit ASP.NET
 
 # 3 Datenbank
 
