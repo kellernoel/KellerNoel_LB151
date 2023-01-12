@@ -27,7 +27,7 @@
 
 # 2 Technologie
 
-✍️ Mit ASP.NET & Blazor
+✍️ REACT
 
 # 3 Datenbank
 
