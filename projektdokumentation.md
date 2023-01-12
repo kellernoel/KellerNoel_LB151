@@ -21,9 +21,9 @@
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
 * Tier 1 (Presentation): Website/Interface zur anzeige der Loginseite/Highscore/Rätselwand.
-* Tier 2 (Webserver): Entgegenname von Daten, überprüfen der Daten mit der Datenbank MySQL.
+* Tier 2 (Webserver): Entgegenname von Daten, überprüfen der Daten.
 * Tier 3 (Application Server): 
-* Tier 4 (Dataserver): Speichern der Einträge des Kandidaten.
+* Tier 4 (Dataserver): Speichern der Einträge des Kandidaten in einer Datenbank von Firebase.
 
 # 2 Technologie
 
