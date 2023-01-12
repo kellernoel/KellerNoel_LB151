@@ -27,7 +27,7 @@
 
 # 2 Technologie
 
-✍️ Mit ASP.NET
+✍️ Mit ASP.NET & Blazor
 
 # 3 Datenbank
 
