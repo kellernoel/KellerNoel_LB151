@@ -27,7 +27,7 @@
 
 # 2 Technologie
 
-✍️ REACT
+✍️ REACT --> React ist eine Bibliothek von JavaScript-Programmen zum Erstellen von Web-Benutzeroberflächen. Komponenten sind in React hierarchisch strukturiert und können durch seine Syntax als selbst definierte JSX-Tags dargestellt werden.
 
 # 3 Datenbank
 
