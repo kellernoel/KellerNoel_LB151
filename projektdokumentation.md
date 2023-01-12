@@ -31,7 +31,7 @@
 
 # 3 Datenbank
 
-✍️ Firebase
+✍️ Firebase --> Firebase ist eine Entwicklungsplattform für Web- und mobile Anwendungen. Es stellt Tools und Infrastruktur über ein Softwareentwicklungskit bereit, das es Entwicklern ermöglicht, Funktionen mithilfe von Programmierschnittstellen über Plattformen hinweg einfacher und effizienter bereitzustellen.
 
 # 4.1 User Stories
 
