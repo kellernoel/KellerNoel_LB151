@@ -88,7 +88,7 @@
 | 12.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "spielen" drücken     |         Das Spiel wird gestartet          |
 | 12.2  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "beenden" drücken     |         Das Spiel wird beendet         |
 | 12.3  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "Gewinn übernehmen" drücken     |         Der gewonnene Betrag wird in die Highscore-Liste übernommen          |
-| 14.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    3-Mal spielen     |         Die Anzahl an Spielrunden wird gezählt und auf dem Bildschirm angezeigt          |
+| 14.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    3-Mal spielen     |         Die Anzahl an Spielrunden werden gezählt und auf dem Bildschirm angezeigt          |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
