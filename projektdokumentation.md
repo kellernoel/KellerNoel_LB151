@@ -31,7 +31,7 @@
 
 # 3 Datenbank
 
-✍️ MySQL --> MariaDB
+✍️ Firebase
 
 # 4.1 User Stories
 
