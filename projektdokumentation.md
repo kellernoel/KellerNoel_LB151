@@ -85,10 +85,10 @@
 | 9.4  |      App erfolgreich gestartet und als Kandidat eingeloggt + Highscore-Liste offen        |    keine     |         Geldbetrag wird angezeigt          |
 | 9.5  |      App erfolgreich gestartet und als Kandidat eingeloggt + Highscore-Liste offen        |    keine     |         Anzahl Spielrunden wird angezeigt          |
 | 10.1  |      App erfolgreich gestartet und als Kandidat oder Administrator eingeloggt + Highscore-Liste offen        |    keine     |         Highscore-Liste ist nach Rang aufsteigend sortiert          |
-| 12.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "spielen" drücken     |         Das Spiel wird gestartet          |
-| 12.2  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "beenden" drücken     |         Das Spiel wird beendet         |
-| 12.3  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "Gewinn übernehmen" drücken     |         Der gewonnene Betrag wird in die Highscore-Liste übernommen          |
-| 14.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    3-Mal spielen     |         Die Anzahl an Spielrunden werden gezählt und auf dem Bildschirm angezeigt          |
+| 11.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "spielen" drücken     |         Das Spiel wird gestartet          |
+| 11.2  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "beenden" drücken     |         Das Spiel wird beendet         |
+| 11.3  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    Auf den Knopf "Gewinn übernehmen" drücken     |         Der gewonnene Betrag wird in die Highscore-Liste übernommen          |
+| 12.1  |      App erfolgreich gestartet und als Kandidat eingeloggt        |    3-Mal spielen     |         Die Anzahl an Spielrunden werden gezählt und auf dem Bildschirm angezeigt          |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -104,7 +104,26 @@
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| ...        |       |              |
+| 1.1       |       |              |
+| 2.1       |       |              |
+| 2.2       |       |              |
+| 2.3       |       |              |
+| 3.1       |       |              |
+| 4.1       |       |              |
+| 5.1       |       |              |
+| 6.1       |       |              |
+| 7.1       |       |              |
+| 8.1       |       |              |
+| 9.1       |       |              |
+| 9.2       |       |              |
+| 9.3       |       |              |
+| 9.4       |       |              |
+| 9.5       |       |              |
+| 10.1      |       |              |
+| 11.1      |       |              |
+| 11.2      |       |              |
+| 11.3      |       |              |
+| 12.1      |       |              |
 
 # 7 Projektdokumentation
 
