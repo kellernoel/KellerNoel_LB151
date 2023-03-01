@@ -104,26 +104,25 @@
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| 1.1       |       |              |
-| 2.1       |       |              |
-| 2.2       |       |              |
-| 2.3       |       |              |
-| 3.1       |       |              |
-| 4.1       |       |              |
-| 5.1       |       |              |
-| 6.1       |       |              |
-| 7.1       |       |              |
-| 8.1       |       |              |
-| 9.1       |       |              |
-| 9.2       |       |              |
-| 9.3       |       |              |
-| 9.4       |       |              |
-| 9.5       |       |              |
-| 10.1      |       |              |
-| 11.1      |       |              |
-| 11.2      |       |              |
-| 11.3      |       |              |
-| 12.1      |       |              |
+| Als Administrator möchte ich mich durch Benutzername und Passwort authentifizieren, damit ich auf Administrationsrechte zugreiffen kann. |    18.02.2023    |              |
+| Als Administrator möchte ich Phrasen und Rätselwörter anlegen, ändern und löschen können, damit ich die Inhalte der App verwalten kann. |    -   |              |
+| Als Administrator möchte ich Kategorien anlegen und jedes Wort bzw. jede Frage einer Kategorie zuordnen können, damit ich die Inhalte der App strukturieren und organisieren kann. |    -   |              |
+| Als Administrator möchte ich einzelne Einträge der Highscore-Liste löschen können, damit ich die Integrität der Highscore-Liste gewährleisten kann. |    -   |              |
+| Als Kandidat möchte ich meinen Namen eingeben können, damit ich mich mit anderen Kandidaten vergleichen kann. |    -   |              |
+| Als kandidat möchte ich zu jederzeit meinen Kontostand sehen, damit ich weiss, wie viel Geld noch zur Verfügung steht und wie viel ich noch ausgeben kann. |    -   |              |
+| Als Kandidat möchte ich zu jederzeit meine noch vorhandenen Lebenspunkte sehen, damit ich weiss, wie viele Vokale ich noch kaufen kann. |    -   |              |
+| Als kandidat möchte ich informiert werden, ob die gegebene Antwort richtig oder falsch ist, damit ich weiss, ob ich ein Wort herausgefunden habe oder nicht. |    25.2.2023   |              |
+| Als Kandidat möchte ich den Rang, der Name des Spielers, den Zeitpunkt des Spiels, den Geldbetrag und die Anzhal Spielrunden in der Highscore-Liste sehen, damit ich mich mit anderen Kandidaten vergleichen kann. |    25.02.2023   |              |
+| Als Kandidat möchte ich, dass die Highscore-Liste nach Rang aufsteigend sortiert ist, damit ich weiss, wer der momentane Leader des Spiels ist. |    -   |              |
+| Als Entwickler möchte ich, dass keinem Kandidaten, die selbe Phrase mehr als einaml gestellt wird, damit das Spiel nicht an Schwierigkeitsgrad verliert. |    -   |              |
+| Als kandidat möchte ich jederzeit spielen, aufhören oder meinen Gewinn in die Highscore-Liste übernehmen können, damit gewisse Freiheiten bei der Bedienung der App habe. |    -   |              |
+| Als Entwickler möchte ich, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt wird, damit es gespielt werden kann. |    -   |              |
+| Als Kandidat möchte ich, dass die Anzahl Spielrundenen gezählt werden, damit ich weiss, wie oft schon gespielt wurde. |    -   |              |
+| Als Administator möchte ich, dass einfache Formulareingaben, wie leere Textfelder client- und serverseitig geprüft werden, damit... |    -   |              |
+| Als Entwickler möchte ich, dass eine Datenbankanbindung verwendet wird, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist, damit... |    -   |              |
+| Als Entwickler möchte ich das Transaktionsmanagement einsetzten, damit Fehler rückgangig gemacht werden können. |    26.02.2023   |              |
+| Als Entwickler möchte ich, dass alle Sicherheitspuntke umgesetzt werden, damit... |    26.02.2023   |              |
+
 
 # 7 Projektdokumentation
 
