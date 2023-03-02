@@ -151,7 +151,7 @@
 | 14   | ja        | Die Anzahl an Spielrunden werden erfolgreich gezählt --> src/game.js|
 | 15   | ja        | Leere Textfelder werden Serverseitig geprüft --> src/game.js|
 | 16   | jein      | Ich brauche zwar eine Datenbank, aber diese funktioniert nur fürs Login und nicht für die Highscoreliste|
-| 17   | nein      |                                           |
+| 17   | nein      |-|
 | 18   | ja        | Es werden Sicherheitspunkte umgesetzt|
 
 # 8 Testprotokoll
