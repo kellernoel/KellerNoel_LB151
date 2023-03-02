@@ -20,14 +20,17 @@
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): Website/Interface zur anzeige der Loginseite/Highscore/Rätselwand.
+* Tier 1 (Presentation): Login-Seite für den Admin mit Namensfeld für Benutzer, Administratoren-Seite mit, die verwaltet werden kann + Highscoreliste und Glücksspielseite.
 * Tier 2 (Webserver): Entgegenname von Daten, überprüfen der Daten.
-* Tier 3 (Application Server): 
+* Tier 3 (Application Server): Logik der Applikation.
 * Tier 4 (Dataserver): Speichern der Einträge des Kandidaten in einer Datenbank von Firebase.
 
 # 2 Technologie
 
-✍️ REACT --> React ist eine Bibliothek von JavaScript-Programmen zum Erstellen von Web-Benutzeroberflächen. Komponenten sind in React hierarchisch strukturiert und können durch seine Syntax als selbst definierte JSX-Tags dargestellt werden.
+* Tier 1 (Presentation): HTML, CSS
+* Tier 2 (Webserver): REACT
+* Tier 3 (Application Server): C#
+* Tier 4 (Dataserver): Firebase Firestore
 
 # 3 Datenbank
 
