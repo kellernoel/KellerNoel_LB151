@@ -156,7 +156,7 @@
 
 # 8 Testprotokoll
 
-✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
+✍️ (https://youtu.be/UfxmTiA3PFE)
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
