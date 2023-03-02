@@ -99,8 +99,11 @@
 # 5 Prototyp
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
-![grafik](https://user-images.githubusercontent.com/74292626/211563711-a1383ac8-8f9d-45ca-818f-0ea3987f9616.png)
 
+![Loginseite](https://user-images.githubusercontent.com/74292626/222451914-4b9c3b69-ba65-4d74-a6c5-26fdad1a8319.png)
+![Spiel](https://user-images.githubusercontent.com/74292626/222451949-efc54b3b-2c38-4444-86ef-f13e8f2631c8.png)
+![Administrationsseite](https://user-images.githubusercontent.com/74292626/222451969-91bdddcc-a4a8-44c5-aaf4-e0f55049eaec.png)
+![Highscoreliste](https://user-images.githubusercontent.com/74292626/222451979-dbe8b5b7-92b2-4f7e-92d6-959ed63fe891.png)
 
 # 6 Implementation
 
