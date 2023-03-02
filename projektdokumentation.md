@@ -210,7 +210,7 @@ Die Datenbank des Spieles ist auf Firebase gehosted, da muss eigentlich nichts m
 ## Adminlogin ##
 
 Für das Adminlogin gibts einen bestehenden Account:
-E-Mail: admin@ad.ch
+E-Mail: admin@ad.ch;
 Passwort: passwort
 
 Weitere Infos in der README.md Datei meines READCT Projekts --> src/README.md
