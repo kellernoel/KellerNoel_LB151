@@ -190,10 +190,23 @@
 
 ✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
 
-1. Visual Studio Code installieren.
-2. cd meine-anwendung --> in der Konsole eingeben, um den Ordner auszuwählen.
-3. npm start --> in der Konsole eingeben, um die Anwendung im Web zu starten.
-4. code . --> um in Visual Studio zu öffnen
+# Vorbereitung #
+
+1. Meinen Code als zip herunterladen.
+2. Visual Studio Code installieren.
+3. cd meine-anwendung --> in der Konsole eingeben, um den Ordner auszuwählen.
+4. npm start --> in der Konsole eingeben, um die Anwendung im Web zu starten.
+5. code . --> um in Visual Studio zu öffnen
+
+# Datenbank #
+
+Die Datenbank des Spieles ist auf Firebase gehosted, da muss eigentlich nichts mehr getan werden.
+
+# Adminlogin #
+
+Für das Adminlogin gibts einen bestehenden Account:
+E-Mail: admin@ad.ch
+Passwort: passwort
 
 Weitere Infos in der README.md Datei meines READCT Projekts --> src/README.md
 
