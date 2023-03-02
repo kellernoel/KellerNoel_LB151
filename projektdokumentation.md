@@ -190,7 +190,7 @@
 
 ✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
 
-# Vorbereitung #
+## Vorbereitung ##
 
 1. Meinen Code als zip herunterladen.
 2. Visual Studio Code installieren.
@@ -198,11 +198,11 @@
 4. npm start --> in der Konsole eingeben, um die Anwendung im Web zu starten.
 5. code . --> um in Visual Studio zu öffnen
 
-# Datenbank #
+## Datenbank ##
 
 Die Datenbank des Spieles ist auf Firebase gehosted, da muss eigentlich nichts mehr getan werden.
 
-# Adminlogin #
+## Adminlogin ##
 
 Für das Adminlogin gibts einen bestehenden Account:
 E-Mail: admin@ad.ch
