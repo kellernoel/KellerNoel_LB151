@@ -132,9 +132,9 @@
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
-| 2    |           |                                           |
-| 3    |           |                                           |
+| 1    | ja        |                                           |
+| 2    | nein      |                                           |
+| 3    | nein      |                                           |
 | 4    |           |                                           |
 | 5    |           |                                           |
 | 6    |           |                                           |
