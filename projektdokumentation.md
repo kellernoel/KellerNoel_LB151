@@ -121,7 +121,7 @@
 | Als Entwickler möchte ich, dass keinem Kandidaten, die selbe Phrase mehr als einaml gestellt wird, damit das Spiel nicht an Schwierigkeitsgrad verliert. |    -   |       Keine Phrase wird doppelt gestellt.       |
 | Als kandidat möchte ich jederzeit spielen, aufhören oder meinen Gewinn in die Highscore-Liste übernehmen können, damit gewisse Freiheiten bei der Bedienung der App habe. |    -   |       Kandidat kann jederzeit aufhören oder spielen       |
 | Als Entwickler möchte ich, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt wird, damit es gespielt werden kann. |    -   |       Spiel wird mit einem Wort gefüllt, damit es gespielt werden kann.       |
-| Als Kandidat möchte ich, dass die Anzahl Spielrundenen gezählt werden, damit ich weiss, wie oft schon gespielt wurde. |    -   |       Anzahl Spielrunden werden nicht gezählt       |
+| Als Kandidat möchte ich, dass die Anzahl Spielrundenen gezählt werden, damit ich weiss, wie oft schon gespielt wurde. |    -   |Anzahl Spielrunden werden nicht gezählt|
 | Als Administator möchte ich, dass einfache Formulareingaben, wie leere Textfelder client- und serverseitig geprüft werden, damit... |    -   |              |
 | Als Entwickler möchte ich, dass eine Datenbankanbindung verwendet wird, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist, damit... |    -   |              |
 | Als Entwickler möchte ich das Transaktionsmanagement einsetzten, damit Fehler rückgangig gemacht werden können. |    26.02.2023   |              |
@@ -132,14 +132,14 @@
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja        |                                           |
-| 2    | nein      |                                           |
-| 3    | nein      |                                           |
-| 4    |           |                                           |
-| 5    |           |                                           |
-| 6    | ja        |                                           |
-| 7    | ja        |                                           |
-| 8    | ja        |                                           |
+| 1    | ja        | Durch das Erstellen eines neuen Auth Projektes in Firebase kann man eine E-Mail und Passwort authentifikation hinzufügen. Diese wird in einem separaten Dokument im Code eingebunden. Das einzige was noch zu tun ist, diese in dem jeweiligen Dokument zu importieren.                                         |
+| 2    | nein      | Der Administrator kann in meinem Programm keine Phrasen und Wörter löschen, ändern oder anlegen|
+| 3    | nein      | Der Administator kann in meinem Programm keine Wörter den Kategorien zuordnen|
+| 4    | nein      | Der Administrator kann in meinem Programm keine einzelne Einträge aus der Highscoreliste löschen|
+| 5    | ja        | Der Kandidat kann seinen Namen auf der Startseite eingeben, indem er in das jeweilige Texteingabefeld drückt|
+| 6    | ja        | Der Kandidat sieht jederzeit seinen Kontostand. Dieser wird auf der Game Seite jederzeit aktualisiert, wenn der Benutzer eingaben tätigt|
+| 7    | ja        | Der Kandidat sieht seine Lebenspunkte. Diese werden auf der Game Seite jederzeit aktualisiert, wenn der Benutzer einen Fehler macht|
+| 8    | ja        | Der Kandidat wird immer informiert, wenn seine eingabe Falsch oder richtig war, wenn er was eingibt wird jedes mal ein alert getriggert|
 | 9    |           |                                           |
 | 10   |           |                                           |
 | 11   |           |                                           |
@@ -184,6 +184,13 @@
 # 9 `README.md`
 
 ✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
+
+1. Visual Studio Code installieren.
+2. cd meine-anwendung --> in der Konsole eingeben, um den Ordner auszuwählen.
+3. npm start --> in der Konsole eingeben, um die Anwendung im Web zu starten.
+4. code . --> um in Visual Studio zu öffnen
+
+Weitere Infos in der README.md Datei meines READCT Projekts --> src/README.md
 
 # 10 Allgemeines
 
