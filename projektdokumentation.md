@@ -8,10 +8,12 @@
 |   10.01.2023    | 0.0.2   | Bis Aufgabe 5 alles gemacht                        |
 |   17.01.2023    | 0.0.3   | Erstes Design der Startseite                       |
 |   30.01.2023    | 0.0.4   | Design des Spiels                                  |
-|   18.02.2023    | 0.0.5   | Logik der Startseite + Verbindung mit Firebase für Login |
+|   18.02.2023    | 0.0.5   | Logik der Startseite + Verbindung mit Firebase für Login|
 |   19.02.2023    | 0.0.6   | Logik des Spiels                                   |
 |   25.02.2023    | 0.0.7   | HIghscoreliste                                     |
-|       | 1.0.0   |                                                              |
+|   26.02.2023    | 0.0.8   | Sicherheitspunkte umsetzen                         |
+|   27.02.2023    | 0.0.9   | Weiterentwicklung und Verbesserung der Logik des Spiels|
+|   01.03.2023    | 1.0.0   | Formulareingaben Serverseitig prüfen               |
 
 # 0 Ihr Projekt
 
@@ -125,7 +127,7 @@
 |Als kandidat möchte ich jederzeit spielen, aufhören oder meinen Gewinn in die Highscore-Liste übernehmen können, damit gewisse Freiheiten bei der Bedienung der App habe. |19.02.2023|Kandidat kann jederzeit aufhören oder spielen|
 |Als Entwickler möchte ich, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt wird, damit es gespielt werden kann. |20.02.2023|Spiel wird mit einem Wort gefüllt, damit es gespielt werden kann|
 |Als Kandidat möchte ich, dass die Anzahl Spielrundenen gezählt werden, damit ich weiss, wie oft schon gespielt wurde|27.02.2023|Anzahl Spielrunden werden gezählt|
-|Als Administator möchte ich, dass einfache Formulareingaben, wie leere Textfelder client- und serverseitig geprüft werden, damit... |01.02.2023|Es wird geprüft, ob etwas eingegeben wurde oder nicht|
+|Als Entwickler möchte ich, dass einfache Formulareingaben, wie leere Textfelder client- und serverseitig geprüft werden, damit...|01.03.2023|Es wird geprüft, ob etwas eingegeben wurde oder nicht|
 |Als Entwickler möchte ich, dass eine Datenbankanbindung verwendet wird, die möglichst unabhängig vom tatsächlich eingesetzten Produkt ist, damit...|-|-|
 |Als Entwickler möchte ich das Transaktionsmanagement einsetzten, damit Fehler rückgangig gemacht werden können|-|-|
 |Als Entwickler möchte ich, dass alle Sicherheitspuntke umgesetzt werden, damit... |26.02.2023|Sicherheitspunkte werden umgesetzt|
@@ -156,7 +158,7 @@
 
 # 8 Testprotokoll
 
-✍️ (https://youtu.be/UfxmTiA3PFE)
+✍️ Link zur Dokumentation der Tests (https://youtu.be/UfxmTiA3PFE)
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
