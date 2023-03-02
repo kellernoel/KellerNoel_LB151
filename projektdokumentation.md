@@ -143,8 +143,8 @@
 | 6    | ja        | Der Kandidat sieht jederzeit seinen Kontostand. Dieser wird auf der Game Seite jederzeit aktualisiert, wenn der Benutzer eingaben tätigt --> src/game.js|
 | 7    | ja        | Der Kandidat sieht seine Lebenspunkte. Diese werden auf der Game Seite jederzeit aktualisiert, wenn der Benutzer einen Fehler macht --> src/game.js|
 | 8    | ja        | Der Kandidat wird immer informiert, wenn seine eingabe Falsch oder richtig war, wenn er was eingibt wird jedes mal ein alert getriggert --> src/game.js|
-| 9    | nein      |                                           |
-| 10   | nein      |                                           |
+| 9    | nein      | Ich sehe zwar Inhalt in der Highscoreliste, aber diese wurden nicht von Spielern eingegeben|
+| 10   | nein      | Die Highscoreliste wird gar nicht sortiert, weil ich sie nicht mit der Datenbank verbinden konnte|
 | 11   | ja        | Dem Kandidaten werden immer verschiedene Wörter und Kategorien angezeigt --> src/game.js|
 | 12   | jein      | Der Kandidat kann jederzeit spielen oder aufhören zu spielen, aber die Daten werden nicht in die Highscoreliste gespeichert --> src/SignIn.js, src/game.js|
 | 13   | ja        | Spiel kann man mit spielbaren Wörter spielen --> src/game.js|
